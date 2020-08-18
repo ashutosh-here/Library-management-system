@@ -8,7 +8,8 @@ A :new_moon: dark themed library management :desktop_computer: desktop applicati
 * Msql database (SQLYog GUI client)
 * [Flatlaf Look & Feel](https://jar-download.com/?search_box=FlatLaf)
 * Netbeans IDE
-* Pichon icon8 icon pack
+* Pichon icon8 icon pack(https://icons8.com/app)
+* [rs2xml jaar](https://hacksmile.com/rs2xml-jar-free-download/)
 
 ### Prerequisites :heavy_check_mark:
 
