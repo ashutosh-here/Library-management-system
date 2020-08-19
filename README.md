@@ -5,11 +5,12 @@ A :new_moon: dark themed library management :desktop_computer: desktop applicati
 ## Tools & Technologies used :performing_arts:
 
 * Java Swing + AWT
+* JDBC API
 * Msql database (SQLYog GUI client)
 * [Flatlaf Look & Feel](https://jar-download.com/?search_box=FlatLaf)
 * Netbeans IDE
 * [Pichon icon8 icon pack](https://icons8.com/app)
-* [rs2xml jaar](https://hacksmile.com/rs2xml-jar-free-download/)
+* [rs2xml jar](https://hacksmile.com/rs2xml-jar-free-download/)
 
 ### Prerequisites :heavy_check_mark:
 
